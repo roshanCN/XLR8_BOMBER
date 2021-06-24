@@ -2,7 +2,7 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 2.1 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by Roshan Kr Soni                #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
 #      Github     :   github.com/anubhavanonymous      #
 #     Instagram  :  instagram.com/anubhavanonymous     #
@@ -46,7 +46,7 @@ echo "          $WHITE╭╯╭╮╰┫╰━╯┃┃┃╰┫╰━╯┃ ┃
 echo "          $WHITE╰━╯╰━┻━━━┻╯╰━┻━━━╯ ╰━━━┻━━━┻╯╰╯╰┻━━━┻━━━┻╯╰━╯"
 echo ""
 sleep 1
-echo "                                    $WHITE Author:$RED Anubhav Kashyap"
+echo "                                    $WHITE Author:$RED Roshan Kr Soni"
 echo ""
 
 }
